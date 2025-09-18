@@ -1,0 +1,154 @@
+{
+  "hero": {
+    "greeting": "Hi We Are",
+    "brandName": "Wavetechify",
+    "headline": "Building Modern, Reliable Web Solutions",
+    "subheadline": "We create fast, secure, and beautifully designed websites and apps that help businesses grow. Whether you’re a startup or an established brand, we turn your ideas into a polished online presence.",
+    "ctaButton": "Book a Free Consultation Today",
+    "statCard1": {
+      "value": "150+",
+      "text": "Worldwide Country has lots of clients"
+    },
+    "featureCard": {
+      "features": [
+        "Data Security",
+        "Web Development",
+        "Analytics"
+      ]
+    },
+    "progressCard": {
+      "value": "88",
+      "text": "get 88% of the best services and growth business"
+    }
+  },
+  "about": {
+    "greeting": "About Our Company",
+    "headline": "Wavetechify creates websites and brands that look sharp and feel personal.",
+    "subheadline": "At Wavetechify, we’re a team of designers, developers, and creators based in Delhi who believe that every business—large or small—deserves a website and brand presence that feels polished and personal.\r\n\r\nFounded in 2025, our mission is simple: build digital experiences that people love to use and remember. We combine clean code, thoughtful design, and clear communication to deliver projects that stand out and perform.",
+    "awardCard": {
+      "title": "Award Winning",
+      "text": "We have a history of successfully delivering affordable IT solutions to a diverse clientele, from startups in Singapore to established enterprises in the UAE."
+    }
+  },
+  "aboutPage": {
+    "greeting": "About Wavetechify.in",
+    "headline": "We Provide You Flexible Services",
+    "subheadline": "At Wavetechify, we pride ourselves on offering dynamic and IT to suit your specific requirements.",
+    "missionCards": [
+      {
+        "icon": "History",
+        "title": "Our History",
+        "description": "Since 1997 we have been a visionary and a reliable software engineering partner for world-class brands."
+      },
+      {
+        "icon": "Target",
+        "title": "Our Mission",
+        "description": "A mission statement clarifies what the company wants to achieve, who they want to support, and why they want to support them."
+      },
+      {
+        "icon": "Eye",
+        "title": "Our Vision",
+        "description": "A vision statement for a company or organization focuses on the potential inherent in the company's future."
+      }
+    ]
+  },
+  "whyUs": {
+    "greeting": "WHY CHOOSE US",
+    "headline": "We provide truly prominent IT solutions for your success",
+    "subheadline": "Wavetechify is the partner of choice for many of the world's leading enterprises, SMEs, and technology challengers. We help businesses elevate their value through custom software development, product design, QA, and consultancy services.",
+    "cards": [
+      {
+        "icon": "Trophy",
+        "title": "Proven Results",
+        "description": "Over 150+ successful projects delivered across India and the Middle East."
+      },
+      {
+        "icon": "CircleDollarSign",
+        "title": "Transparent Pricing",
+        "description": "Clear packages for startups, SMEs, and large enterprises—no hidden costs."
+      },
+      {
+        "icon": "Map",
+        "title": "Local Expertise",
+        "description": "Offices and partners in Dubai, Delhi, and Singapore for region-specific strategies."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Future-Ready Tech",
+        "description": "AI chatbots, automation tools, and advanced analytics integrated into every project."
+      }
+    ]
+  },
+  "workingProcess": {
+    "greeting": "Working Process",
+    "headline": "Our Approach",
+    "steps": [
+      {
+        "title": "Discovery Phase",
+        "content": "Data-driven diagnostic and predictive app for improving outcomes. Data driven diagnostic and predictive app for improving."
+      },
+      {
+        "title": "Design and Development",
+        "content": "Our team designs a user-friendly interface and develops a robust backend, ensuring a seamless and scalable solution."
+      },
+      {
+        "title": "Maintenance",
+        "content": "We provide ongoing support and maintenance to ensure your application remains up-to-date, secure, and performs optimally."
+      },
+      {
+        "title": "Deployment",
+        "content": "We handle the deployment process to your chosen cloud provider or on-premise infrastructure, ensuring a smooth and secure launch."
+      },
+      {
+        "title": "Testing and QA",
+        "content": "Rigorous testing is conducted at every stage to identify and fix any bugs, ensuring a high-quality, reliable final product."
+      }
+    ]
+  },
+  "faq": {
+    "headline": "Frequently Asked Questions",
+    "subheadline": "Have questions? We have answers. If you can't find what you're looking for, feel free to contact us.",
+    "items": [
+      {
+        "question": "What is Managed IT Services?",
+        "answer": "Managed IT Services is a proactive approach to IT management. We monitor, manage, and maintain your IT infrastructure for a flat monthly fee, preventing issues before they become problems."
+      },
+      {
+        "question": "How can cloud solutions benefit my business?",
+        "answer": "Cloud solutions offer scalability, flexibility, and cost-efficiency. They allow you to access your data and applications from anywhere, reduce hardware costs, and improve disaster recovery capabilities."
+      },
+      {
+        "question": "Is my data secure with your services?",
+        "answer": "Absolutely. We implement multi-layered security protocols, including firewalls, encryption, and regular security audits, to ensure your data is protected against unauthorized access and cyber threats."
+      },
+      {
+        "question": "Do you offer custom software development?",
+        "answer": "Yes, we specialize in creating custom software solutions tailored to your unique business processes. Our team works with you to design, develop, and deploy software that solves your specific challenges."
+      },
+      {
+        "question": "What kind of support can I expect?",
+        "answer": "We offer 24/7 help desk support with a team of dedicated experts ready to assist your employees with any IT-related issues, ensuring minimal downtime and disruption."
+      },
+      {
+        "question": "How do you handle data backup and recovery?",
+        "answer": "We provide robust backup and disaster recovery solutions. Your data is regularly backed up to secure, off-site locations, ensuring it can be quickly restored in the event of hardware failure, cyberattack, or other disasters."
+      },
+      {
+        "question": "What is the onboarding process like?",
+        "answer": "Our onboarding process is seamless. We start with a thorough assessment of your current IT environment, then develop a tailored migration and implementation plan to transition your services with minimal disruption to your business."
+      },
+      {
+        "question": "Can you help with IT strategy and budgeting?",
+        "answer": "Yes, a key part of our service is acting as your strategic IT partner. We provide regular reviews and recommendations to help you budget effectively and align your technology with your long-term business goals."
+      },
+      {
+        "question": "What industries do you specialize in?",
+        "answer": "We have experience working with a diverse range of industries, including finance, healthcare, legal, retail, and manufacturing. We tailor our IT solutions to meet the specific compliance and operational needs of each sector."
+      },
+      {
+        "question": "How do you ensure the reliability of your services?",
+        "answer": "We utilize enterprise-grade infrastructure and proactive monitoring tools to ensure the highest levels of uptime and reliability. Our Service Level Agreements (SLAs) guarantee performance and availability."
+      }
+    ]
+  }
+}

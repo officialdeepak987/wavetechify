@@ -1,0 +1,125 @@
+
+[
+  {
+    "id": "1",
+    "icon": "Code2",
+    "title": "IT Management Services",
+    "slug": "it-management",
+    "description": "Comprehensive IT management to ensure your systems are efficient, secure, and always on.",
+    "longDescription": "We provide comprehensive IT management services, ensuring your systems are running smoothly and securely. Our proactive approach minimizes downtime and maximizes productivity, allowing you to focus on your core business.",
+    "points": [
+      "Proactive System Monitoring",
+      "Network Management & Security",
+      "Software Patching & Updates",
+      "IT Asset Management",
+      "Strategic IT Consulting",
+      "Vendor Management"
+    ],
+    "tags": [
+      "Consultation",
+      "Strategy"
+    ],
+    "image": "/images/service_image_1.webp",
+    "imageHint": "network server",
+    "bgColor": "bg-blue-600",
+    "textColor": "text-white"
+  },
+  {
+    "id": "2",
+    "icon": "Smartphone",
+    "title": "Data Tracking and Security",
+    "slug": "data-security",
+    "description": "Protect your most valuable asset with robust data security, tracking, and compliance solutions.",
+    "longDescription": "We help you track and secure your most valuable asset: your data. Our services include implementing robust security measures, ensuring data privacy compliance, and setting up tracking systems to provide actionable insights.",
+    "points": [
+      "Data Encryption & Protection",
+      "Cybersecurity Threat Analysis",
+      "Compliance Management (GDPR",
+      "etc.)",
+      "Secure Data Backup & Recovery",
+      "Real-time Security Monitoring",
+      "Employee Security Training"
+    ],
+    "tags": [
+      "Management",
+      "Transfer"
+    ],
+    "image": "/images/service_image_2.webp",
+    "imageHint": "data security",
+    "bgColor": "bg-orange-500",
+    "textColor": "text-white"
+  },
+  {
+    "id": "3",
+    "icon": "Palette",
+    "title": "Website Development",
+    "slug": "web-development",
+    "description": "Custom, high-performance websites that are scalable, secure, and designed to convert.",
+    "longDescription": "We build high-performance, responsive websites tailored to your business needs, from custom HTML/React sites to robust e-commerce platforms. Our expertise ensures a solution that's not only visually appealing but also scalable and secure.",
+    "points": [
+      "Custom Web Design & UI/UX",
+      "E-commerce & Online Stores",
+      "Content Management Systems (CMS)",
+      "Mobile-First Responsive Design",
+      "SEO-Friendly Architecture",
+      "API & Third-party Integrations"
+    ],
+    "tags": [
+      "Strategy",
+      "Transfer"
+    ],
+    "image": "/images/service_image_3.webp",
+    "imageHint": "web design",
+    "bgColor": "bg-amber-400",
+    "textColor": "text-neutral-800"
+  },
+  {
+    "id": "4",
+    "icon": "CloudCog",
+    "title": "Modern Technology Solution",
+    "slug": "modern-tech-solutions",
+    "description": "Leverage cloud computing and automation to streamline operations and enhance performance.",
+    "longDescription": "We implement modern technology solutions like cloud computing and automation to streamline your operations. Our services ensure your data is secure, backed up, and highly available, with expert management to keep your infrastructure running efficiently.",
+    "points": [
+      "Cloud Migration & Management",
+      "DevOps & Automation",
+      "Serverless Architecture",
+      "Containerization (Docker",
+      "Kubernetes)",
+      "Infrastructure as Code (IaC)",
+      "Performance Optimization"
+    ],
+    "tags": [
+      "Consultation",
+      "solution"
+    ],
+    "image": "/images/service_image_4.webp",
+    "imageHint": "cloud solution",
+    "bgColor": "bg-rose-500",
+    "textColor": "text-white"
+  },
+  {
+    "id": "5",
+    "icon": "TrendingUp",
+    "title": "UI/UX Design Services",
+    "slug": "ui-ux-design",
+    "description": "User-centric and beautiful designs that create intuitive and engaging digital experiences.",
+    "longDescription": "Our UI/UX design process is centered around your users. We create wireframes, prototypes, and interactive designs that are both beautiful and intuitive, ensuring high user engagement and satisfaction across all devices.",
+    "points": [
+      "User Research & Persona Development",
+      "Wireframing & Prototyping",
+      "Interactive UI Design",
+      "Usability Testing",
+      "Design System Creation",
+      "Accessibility (WCAG) Compliance"
+    ],
+    "tags": [
+      "Mobile App",
+      "solution"
+    ],
+    "image": "/images/service_image_5.webp",
+    "imageHint": "design interface",
+    "bgColor": "bg-indigo-900",
+    "textColor": "text-white"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Deepak singh",
+    "role": "SOFTWEHER ENGINEER",
+    "image": "/images/Untitled design (1).jpg",
+    "imageHint": "DEEPAK SINGH",
+    "twitter": "",
+    "linkedin": ""
+  },
+  {
+    "id": "2",
+    "name": "August Everest",
+    "role": "SYSTEMS ENGINEER",
+    "image": "/images/ev_black.png",
+    "imageHint": "man portrait smiling",
+    "twitter": "#",
+    "linkedin": "#"
+  },
+  {
+    "id": "3",
+    "name": "Seraphina Moon",
+    "role": "IT CONSULTANT",
+    "image": "/images/team3.png",
+    "imageHint": "woman portrait professional",
+    "twitter": "#",
+    "linkedin": "#"
+  },
+  {
+    "id": "4",
+    "name": "Orion Jasper",
+    "role": "IT CONSULTANT",
+    "image": "/images/team4.png",
+    "imageHint": "man portrait serious",
+    "twitter": "#",
+    "linkedin": "#"
+  },
+  {
+    "id": "5",
+    "name": "Luna Wilde",
+    "role": "LEAD DEVELOPER",
+    "image": "/images/team5.png",
+    "imageHint": "woman portrait smiling",
+    "twitter": "#",
+    "linkedin": "#"
+  }
+]

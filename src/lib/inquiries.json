@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1758115774559",
+    "name": "Abhishek Test",
+    "email": "sasas@gmail.com",
+    "subject": "Pricing Inquiry: Single Page Website Plan (For Portfolios & Resumes)",
+    "message": "Phone/WhatsApp: 01235689589\n\ndasddas dadas",
+    "date": "2025-09-17",
+    "preferredDate": null
+  },
+  {
+    "id": "1757598037267",
+    "name": "Deepak Singh",
+    "email": "deepak@havelockislandbeachresort.com",
+    "subject": "Pricing Inquiry: Normal Plan (For Growing Businesses)",
+    "message": "Phone/WhatsApp: 9123874363\n\ni neend website my travle portfolio",
+    "date": "2025-09-11",
+    "preferredDate": null
+  },
+  {
+    "id": "1757496809172",
+    "name": "Deepak Singh",
+    "email": "deepak@havelockislandbeachresort.com",
+    "subject": "Need Website",
+    "message": "i need a website for my e-comm website",
+    "preferredDate": "2025-09-16",
+    "date": "2025-09-10"
+  }
+]

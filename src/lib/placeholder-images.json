@@ -1,0 +1,81 @@
+
+{
+  "hero": {
+    "image1": {
+      "src": "/images/home_page/app_dev.png",
+      "hint": "smartphone hand"
+    },
+    "statBg": {
+      "src": "/images/home_page/it_solution_hero_image_2.webp",
+      "hint": "business growth"
+    }
+  },
+  "about": {
+    "sectionImage": {
+      "src": "/images/home_page/website.png",
+      "hint": "diverse team working"
+    },
+    "pageImage1": {
+      "src": "https://picsum.photos/seed/about-1/600/800",
+      "hint": "team working office"
+    },
+    "pageImage2": {
+      "src": "https://picsum.photos/seed/about-2/600/800",
+      "hint": "man presenting"
+    }
+  },
+  "services": {
+    "it-management": {
+      "src": "https://picsum.photos/seed/svc1/800/600",
+      "hint": "network server"
+    },
+    "data-security": {
+      "src": "https://picsum.photos/seed/svc2/800/600",
+      "hint": "data security"
+    },
+    "web-development": {
+      "src": "https://picsum.photos/seed/svc3/800/600",
+      "hint": "web design"
+    },
+    "modern-tech-solutions": {
+      "src": "https://picsum.photos/seed/svc4/800/600",
+      "hint": "cloud solution"
+    },
+    "ui-ux-design": {
+      "src": "https://picsum.photos/seed/svc5/800/600",
+      "hint": "design interface"
+    },
+    "it-support-consulting": {
+      "src": "https://picsum.photos/seed/svc6/800/600",
+      "hint": "IT support"
+    },
+    "detailImage1": {
+      "src": "https://picsum.photos/seed/service1/800/500",
+      "hint": "team working office"
+    },
+    "detailImage2": {
+      "src": "https://picsum.photos/seed/service2/400/300",
+      "hint": "team meeting"
+    },
+    "detailImage3": {
+      "src": "https://picsum.photos/seed/service3/400/300",
+      "hint": "developers working"
+    }
+  },
+  "whyUs": {
+    "mainImage": {
+      "src": "/images/home_page/whychoose.png",
+      "hint": "office building modern"
+    }
+  },
+  "blog": {
+    "avatar1": {
+        "src": "https://picsum.photos/seed/avatar1/80/80",
+        "hint": "woman smiling"
+    },
+    "avatar2": {
+        "src": "https://picsum.photos/seed/avatar2/80/80",
+        "hint": "man smiling"
+    }
+  }
+}

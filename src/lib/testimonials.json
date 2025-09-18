@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": "1",
+    "quote": "Codexletech.com transformed our operations. Their cloud solution is rock-solid, and their support is second to none. A true partner in our success.",
+    "author": "Jane Doe",
+    "company": "CEO, Innovate Inc.",
+    "image": "/images/testimonial1.png",
+    "imageHint": "woman professional"
+  },
+  {
+    "id": "2",
+    "quote": "The cybersecurity expertise at Codexletech.com is impressive. They secured our network and gave us peace of mind. I can't recommend them enough.",
+    "author": "John Smith",
+    "company": "CTO, Secure Finance",
+    "image": "/images/testimonial2.png",
+    "imageHint": "man professional"
+  },
+  {
+    "id": "3",
+    "quote": "The custom software they built for us was a game-changer. It perfectly fits our workflow and has significantly boosted our productivity.",
+    "author": "Emily White",
+    "company": "COO, HealthBridge",
+    "image": "/images/testimonial3.png",
+    "imageHint": "woman smiling"
+  },
+  {
+    "id": "4",
+    "quote": "Working with Codexletech.com has been a pleasure. Their professionalism, technical skill, and proactive approach to IT management are exceptional.",
+    "author": "Michael Brown",
+    "company": "Managing Partner, B&G Law",
+    "image": "/images/testimonial4.png",
+    "imageHint": "man smiling professional"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1",
+    "slug": "ev-urjavahan-full-seo-lead-generation-website-for-electric-scooters",
+    "image": "/images/evur.png",
+    "imageHint": "Electric Scooters",
+    "category": "website",
+    "title": "EV UrjaVahan – Full SEO Lead-Generation Website for Electric Scooters",
+    "description": "We successfully designed and developed a full-featured lead generation and company portfolio website for EV Urja Vahan, a brand committed to sustainable electric mobility.",
+    "longDescription": "The site highlights their flagship electric scooter models, including the award-winning Zem (Activa models), and provides a smooth user experience that converts visitors into qualified leads.\\r\\nOur Key Deliverables\\r\\n\\r\\nCustom UI/UX Design: Modern dark theme with bold green highlights to reflect eco-friendly innovation.\\r\\n\\r\\nResponsive Development: Built with mobile-first principles for flawless performance on phones, tablets, and desktops.\\r\\n\\r\\nLead Generation Funnel: Integrated “Book a Test Drive” and “View Specifications” CTAs with easy inquiry forms.\\r\\n\\r\\nOn-Page SEO & Technical SEO:\\r\\n\\r\\nOptimized meta titles, descriptions, and headings\\r\\n\\r\\nSchema markup for products and reviews\\r\\n\\r\\nImage compression and lazy loading for fast page speed\\r\\n\\r\\nContent Strategy: Clear messaging showcasing range, speed, and motor power to boost conversions.\\r\\n\\r\\nAnalytics & Tracking: Google Analytics and Search Console integration for real-time performance monitoring.\\r\\n\\r\\nWebsite Highlights\\r\\n\\r\\n150 KM Range, 65 Km/h Top Speed, 350 Watt Motor Power displayed prominently for instant customer engagement.\\r\\n\\r\\nInteractive slider featuring multiple vehicle models.\\r\\n\\r\\nSecure hosting with SSL for customer trust.\\r\\n\\r\\n\\r\\n\\r\\nResults\\r\\n\\r\\nImproved organic visibility within the first month of launch.\\r\\n\\r\\nHigher lead capture through strategically placed CTAs and mobile-optimized design.\\r\\n\\r\\nFast load times and excellent Core Web Vitals scores.",
+    "client": "evurjavahan.in",
+    "location": "India, Bihar",
+    "completedDate": "20-04-2025",
+    "requirements": [
+      "Technologies Used\\r\\n\\r\\nFrontend: HTML5 CSS3 JavaScript",
+      "Backend & CMS: PHP with a lightweight  connect with ftp for easy updates\\r\\n\\r\\nSEO Tools: Google Search Console",
+      "Google Analytics",
+      "keyword optimization"
+    ],
+    "solution": "“The new website perfectly represents our brand and is already driving more test-drive bookings than we expected. Great job on design, SEO, and lead generation!” – EV Urja Vahan Team"
+  },
+  {
+    "id": "2",
+    "slug": "enterprise-security-for-finance-in-singapore",
+    "image": "/images/project2.png",
+    "imageHint": "cyber security singapore",
+    "category": "Cybersecurity",
+    "title": "Enterprise Security Overhaul for Singapore Finance Firm",
+    "description": "Implemented a multi-layered security framework for a financial institution, achieving 99.9% threat detection and compliance with industry regulations.",
+    "longDescription": "This project involved a complete overhaul of the client's security infrastructure to protect against modern cyber threats. We implemented a multi-layered security framework, including advanced endpoint protection, network segmentation, and a 24/7 security operations center (SOC) for continuous monitoring and incident response.",
+    "client": "Secure Finance",
+    "location": "London, UK",
+    "completedDate": "15-08-2023",
+    "requirements": [
+      "Threat Assessment",
+      "Security Policy Development",
+      "Firewall and IDS/IPS Implementation",
+      "Endpoint Security Deployment",
+      "SIEM and SOC Setup",
+      "Employee Security Training"
+    ],
+    "solution": "The new security framework provides comprehensive protection for the client's sensitive data and critical systems. It has reduced the risk of security breaches, ensured regulatory compliance, and provided the client with full visibility into their security posture. Proactive threat hunting and rapid incident response capabilities have minimized potential impacts on business operations."
+  },
+  {
+    "id": "3",
+    "slug": "custom-crm-for-healthcare-in-india",
+    "image": "/images/project3.png",
+    "imageHint": "affordable website India",
+    "category": "Software Development",
+    "title": "Custom CRM for Healthcare Provider in India",
+    "description": "Developed a HIPAA-compliant CRM system for a healthcare provider, streamlining patient management and improving operational efficiency.",
+    "longDescription": "We developed a bespoke Customer Relationship Management (CRM) system for a large healthcare provider. The system was designed to be fully HIPAA-compliant, ensuring the privacy and security of patient data while streamlining workflows for patient onboarding, appointment scheduling, and medical records management.",
+    "client": "HealthBridge",
+    "location": "Chicago, IL, USA",
+    "completedDate": "01-06-2023",
+    "requirements": [
+      "HIPAA-compliant data handling",
+      "Patient Information Management",
+      "Appointment Scheduling Module",
+      "Electronic Health Record (EHR) Integration",
+      "Billing and Invoicing System",
+      "Secure Doctor-Patient Communication Portal"
+    ],
+    "solution": "The custom CRM has significantly improved the provider's operational efficiency by automating manual tasks and providing a centralized platform for all patient-related information. It has reduced administrative overhead, improved the patient experience, and ensured full compliance with healthcare regulations."
+  },
+  {
+    "id": "4",
+    "slug": "managed-it-support-for-global-law-firm",
+    "image": "/images/project4.png",
+    "imageHint": "business meeting",
+    "category": "Managed IT",
+    "title": "Ongoing Support for a Global Law Firm",
+    "description": "Providing 24/7 managed IT services for a top law firm, ensuring high availability of critical systems and data security.",
+    "longDescription": "We provide comprehensive managed IT services for a leading law firm, offering 24/7 support and proactive management of their entire IT infrastructure. This includes network monitoring, data backup and disaster recovery, cybersecurity management, and helpdesk support for all employees.",
+    "client": "B&G Law",
+    "location": "Global",
+    "completedDate": "Ongoing",
+    "requirements": [
+      "24/7 Helpdesk Support",
+      "Proactive Network Monitoring",
+      "Managed Cybersecurity Services",
+      "Cloud Backup and Disaster Recovery",
+      "Vendor Management",
+      "IT Strategy and Consulting"
+    ],
+    "solution": "Our managed IT services ensure the high availability and security of the firm's critical systems, allowing their legal team to work efficiently and without interruption. Our proactive approach minimizes downtime, protects sensitive client data, and provides the firm with a predictable IT budget and a strategic technology partner."
+  }
+]

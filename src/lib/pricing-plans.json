@@ -1,0 +1,153 @@
+{
+  "IN": {
+    "name": "India",
+    "currency": "INR",
+    "currencySymbol": "₹",
+    "plans": [
+      {
+        "id": "in-1",
+        "name": "Basic Plan (Best for Startups)",
+        "priceMonthly": 6999,
+        "priceSuffix": "/one-time",
+        "features": [
+          "5 Page Static Website (HTML / WordPress)",
+          "Responsive Design (Mobile + Desktop)",
+          "Basic Contact Form Integration",
+          "1 Free Business Email Setup",
+          "Free SSL Certificate",
+          "Freebie: WhatsApp Chat Button"
+        ]
+      },
+      {
+        "id": "in-2",
+        "name": "Normal Plan (For Growing Businesses)",
+        "priceMonthly": 49999,
+        "priceSuffix": "/one-time",
+        "features": [
+          "10–12 Pages Dynamic Website",
+          "Payment Gateway Integration (UPI / Razorpay)",
+          "Admin Panel (Easy CMS)",
+          "On-Page SEO (Meta",
+          "Alt",
+          "Sitemap)",
+          "Social Media Integration",
+          "3 Months Free Maintenance",
+          "Freebie: WhatsApp Chatbot"
+        ]
+      },
+      {
+        "id": "in-3",
+        "name": "Hard Plan (Advanced Business)",
+        "priceMonthly": 69999,
+        "priceSuffix": "/one-time",
+        "features": [
+          "15–20 Pages Dynamic Website + Blog",
+          "Advanced Payment Gateway (Stripe / PayPal)",
+          "AI Chatbot (Lead Capture + Auto Reply)",
+          "Advanced SEO (10 Keywords Ranking)",
+          "Social Media Pack (10 Posts + 5 Reels Design)",
+          "6 Months Free Maintenance",
+          "Freebie: AI Automation Tool (Email + WhatsApp Integration)"
+        ]
+      },
+      {
+        "id": "in-4",
+        "name": "Enterprise Plan (Complete Growth)",
+        "priceMonthly": 99999,
+        "priceSuffix": "/one-time",
+        "features": [
+          "Unlimited Pages (Custom Development)",
+          "eCommerce Integration",
+          "CRM Integration",
+          "Complete SEO (30 Keywords Ranking)",
+          "Social Media Management",
+          "Digital Marketing (Google Ads Setup)",
+          "12 Months Free Maintenance",
+          "Freebie: AI Tools + Free Logo"
+        ]
+      },
+      {
+        "id": "in-1758111156786",
+        "name": "Single Page Website Plan (For Portfolios & Resumes)",
+        "priceMonthly": 3000,
+        "priceSuffix": "/one-time",
+        "features": [
+          "Best For: Freelancers Creatives  Job Seekers and Personal Branding",
+          "1 Fully Responsive Page (Mobile + Desktop)",
+          "Smooth Scroll & Section Navigation",
+          "Professional Design for personal portfolio or resume",
+          "Contact Form Integration (Email / WhatsApp)",
+          "Free SSL Certificate for security",
+          "Basic On-Page SEO (meta title description alt tags)"
+        ]
+      }
+    ]
+  },
+  "AE": {
+    "name": "Dubai",
+    "currency": "AED",
+    "currencySymbol": "د.إ",
+    "plans": [
+      {
+        "id": "ae-1",
+        "name": "Basic Plan (For Small Startups)",
+        "priceMonthly": 1500,
+        "priceSuffix": "/one-time",
+        "features": [
+          "5 Page Static Website (WordPress / HTML)",
+          "Responsive Mobile-Friendly Design",
+          "Contact Form + Google Maps Integration",
+          "1 Business Email Setup",
+          "Free SSL Certificate",
+          "Freebie: WhatsApp Chat Button"
+        ]
+      },
+      {
+        "id": "ae-2",
+        "name": "Normal Plan (For Growing Businesses)",
+        "priceMonthly": 3500,
+        "priceSuffix": "/one-time",
+        "features": [
+          "10–12 Pages Dynamic Website",
+          "Payment Gateway Integration (Stripe / PayPal)",
+          "Admin Panel (CMS to edit content easily)",
+          "On-Page SEO (Meta, Sitemap, Alt tags)",
+          "Social Media Integration (FB, Insta, LinkedIn)",
+          "3 Months Free Maintenance",
+          "Freebie: WhatsApp Chatbot Integration"
+        ]
+      },
+      {
+        "id": "ae-3",
+        "name": "Hard Plan (For Established Businesses)",
+        "priceMonthly": 7500,
+        "priceSuffix": "/one-time",
+        "features": [
+          "15–20 Pages Dynamic Website + Blog Section",
+          "Advanced Payment Gateway (Stripe / PayPal + Multi-Currency)",
+          "AI Chatbot (Lead Generation + Auto Replies)",
+          "SEO Optimization (On-page + Technical + 15 Keywords Ranking)",
+          "Social Media Pack (10 Posts + 5 Reels Design)",
+          "6 Months Free Maintenance",
+          "Freebie: AI Automation Tool (Email + WhatsApp Marketing)"
+        ]
+      },
+      {
+        "id": "ae-4",
+        "name": "Enterprise Plan (Complete Digital Growth)",
+        "priceMonthly": 15000,
+        "priceSuffix": "/one-time OR AED 1,200/month",
+        "features": [
+          "Unlimited Pages (Custom Development – React/Next.js + Node.js)",
+          "eCommerce Integration (Product Management + Payment + Delivery)",
+          "CRM Integration (Leads + Customer Management)",
+          "Full SEO Package (On-page + Off-page + 40 Keywords Ranking)",
+          "Social Media Management (20 Posts + 10 Reels / month)",
+          "Paid Ads Setup (Google Ads + Meta Ads – 1 Campaign)",
+          "12 Months Free Maintenance & Support",
+          "Freebie: AI Chatbot + AI Automation + Free Logo & Branding Kit"
+        ]
+      }
+    ]
+  }
+}
